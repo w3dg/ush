@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "alias": "dgsh",
+  "redirects": [
+    { "source": "/home", "destination": "https://dgdev.vercel.app" },
+    { "source": "/site", "destination": "https://dgdev.vercel.app" },
+    { "source": "/gh", "destination": "https://github.com/debopamgupta" },
+    { "source": "/github", "destination": "/gh" },
+    {
+      "source": "/yt",
+      "destination": "https://www.youtube.com/channel/UCrXTbv7MSiHSt1b8eWjaxAA"
+    },
+    {
+      "source": "/youtube",
+      "destination": "/yt"
+    },
+    {
+      "source": "/todo",
+      "destination": "https://vue-todo-ivory.now.sh/"
+    },
+    {
+      "source": "/weather",
+      "destination": "https://weather-react.now.sh/"
+    }
+  ]
+}
