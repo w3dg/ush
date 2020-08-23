@@ -15,11 +15,11 @@
       "destination": "/yt"
     },
     {
-      "source": "twitch",
+      "source": "/twitch",
       "destination": "https://twitch.tv/debopamgupta"
     },
     {
-      "source": "twi",
+      "source": "/twi",
       "destination": "/twitch"
     },
     {
