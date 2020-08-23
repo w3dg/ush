@@ -15,6 +15,14 @@
       "destination": "/yt"
     },
     {
+      "source": "twitch",
+      "destination": "https://twitch.tv/debopamgupta"
+    },
+    {
+      "source": "twi",
+      "destination": "/twitch"
+    },
+    {
       "source": "/todo",
       "destination": "https://vue-todo-ivory.now.sh/"
     },
