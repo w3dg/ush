@@ -23,6 +23,10 @@
       "destination": "/twitch"
     },
     {
+      "source": "/twitter",
+      "destination": "/https://twitter.com/debopamgupta"
+    },
+    {
       "source": "/todo",
       "destination": "https://vue-todo-ivory.now.sh/"
     },
