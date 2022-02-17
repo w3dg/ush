@@ -5,14 +5,14 @@
     { "source": "/home", "destination": "https://dgdev.vercel.app" },
     { "source": "/site", "destination": "https://dgdev.vercel.app" },
     { "source": "/gh", "destination": "https://github.com/debopamgupta" },
-    { "source": "/github", "destination": "/gh" },
+    { "source": "/github", "destination": "https://github.com/debopamgupta" },
     {
       "source": "/yt",
       "destination": "https://www.youtube.com/channel/UCrXTbv7MSiHSt1b8eWjaxAA"
     },
     {
       "source": "/youtube",
-      "destination": "/yt"
+      "destination": "https://www.youtube.com/channel/UCrXTbv7MSiHSt1b8eWjaxAA"
     },
     {
       "source": "/twitch",
@@ -20,7 +20,7 @@
     },
     {
       "source": "/twi",
-      "destination": "/twitch"
+      "destination": "https://twitch.tv/debopamgupta"
     },
     {
       "source": "/twitter",
@@ -33,6 +33,14 @@
     {
       "source": "/weather",
       "destination": "https://weather-react.now.sh/"
+    },
+    {
+      "source": "/ig",
+      "destination": "https://instagram.com/its_not_dg"
+    },
+    {
+      "source": "/instagram",
+      "destination": "https://instagram.com/its_not_dg"
     }
   ]
 }
