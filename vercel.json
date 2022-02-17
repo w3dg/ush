@@ -24,7 +24,7 @@
     },
     {
       "source": "/twitter",
-      "destination": "/https://twitter.com/debopamgupta"
+      "destination": "https://twitter.com/debopamgupta"
     },
     {
       "source": "/todo",
