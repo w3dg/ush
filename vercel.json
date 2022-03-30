@@ -41,6 +41,18 @@
     {
       "source": "/instagram",
       "destination": "https://instagram.com/its_not_dg"
+    },
+    {
+      "source": "/linkedin",
+      "destination": "https://linkedin.com/in/debopamgupta"
+    },
+    {
+      "source": "li",
+      "destination": "https://linkedin.com/in/debopamgupta"
+    },
+    {
+      "source": "/linkedinfull",
+      "destination": "https://www.linkedin.com/in/debopam-gupta-400165233/"
     }
   ]
 }
