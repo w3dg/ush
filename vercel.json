@@ -4,8 +4,8 @@
   "redirects": [
     { "source": "/home", "destination": "https://dgdev.vercel.app" },
     { "source": "/site", "destination": "https://dgdev.vercel.app" },
-    { "source": "/gh", "destination": "https://github.com/debopamgupta" },
-    { "source": "/github", "destination": "https://github.com/debopamgupta" },
+    { "source": "/gh", "destination": "https://github.com/w3dg" },
+    { "source": "/github", "destination": "https://github.com/w3dg" },
     {
       "source": "/yt",
       "destination": "https://www.youtube.com/channel/UCrXTbv7MSiHSt1b8eWjaxAA"
